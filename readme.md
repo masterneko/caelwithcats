@@ -1,6 +1,6 @@
 # About me
 
-I am a computer hobbyist. I enjoy programming and love cat, Ack.
+I am a computer hobbyist. I enjoy programming and love my cat, Ack.
 
 ### What do I program in?
 
