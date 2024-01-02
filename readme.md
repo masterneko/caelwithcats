@@ -1,13 +1,11 @@
 # About me
+[Blog](https://masterneko.github.io)
 
-I C++ developer and have pet cat called Ack. I like to write low level software and reinvent the wheel for fun.
+I am a C++ programmer and have a pet cat named Ack. Currently in high school. I have a passion for code and want to figure out how things work.
 
 ## What have I made?
-* [ackOS](https://github.com/ackOS-project/ackOS) - An operating system I'm writing which will feature a microkernel
-* [My blog website](https://masterneko.github.io)
-* and some old abandoned projects I have made (don't click, its yandere simulator)
-* [cross-lib](https://github.com/masterneko/cross-lib) - a cross platform GUI framework I tried building
-* [Values interperter](https://github.com/masterneko/values-text-interperter) - A serialiser and parser
+* [bin-edit](https://github.com/masterneko/bin-edit) Heard of hex editors? This is like that except you edit entirely in 0s and 1s.
+* [ackOS](https://github.com/ackOS-project/ackOS) - An ambitious operating system project I was trying to write. While not completed it has provided an avenue for understanding the complexities of computers
 
-|![](https://github-readme-stats.vercel.app/api?username=masterneko&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterneko&layout=compact&theme=radical&hide_border=true)|
+|![](https://github-readme-stats.vercel.app/api?username=masterneko&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterneko&layout=compact&theme=radical&hide_border=true&langs_count=3)|
 |---|---|
